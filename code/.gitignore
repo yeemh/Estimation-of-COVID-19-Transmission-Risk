@@ -1,3 +1,5 @@
 yolov4-custom-5class_7000.weights
 wideresnet18_places365.pth.tar
 cudnn64_8.dll
+
+__pycache__/
